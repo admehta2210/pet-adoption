@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "staff",
+      "password": "staff123",
+      "role": "staff"
+    },
+    {
+      "id": "3",
+      "username": "adopter",
+      "password": "adopter123",
+      "role": "adopter"
+    }
+  ],
+  "pets": [
+    {
+      "id": "1",
+      "name": "Buddy",
+      "breed": "Golden Retriever",
+      "status": "available"
+    },
+    {
+      "id": "2",
+      "name": "Whiskers",
+      "breed": "Siamese",
+      "status": "adopted"
+    }
+  ],
+  "applications": [
+    {
+      "id": "626f",
+      "petId": "1",
+      "status": "approved",
+      "date": "2025-04-04T02:57:44.465Z"
+    },
+    {
+      "id": "4aba",
+      "petId": "2",
+      "status": "pending",
+      "date": "2025-04-04T02:58:55.863Z"
+    }
+  ],
+  "visits": []
+}
